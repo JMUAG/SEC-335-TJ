@@ -1,0 +1,5 @@
+# Nmap 7.92 scan initiated Mon Sep 19 17:26:02 2022 as: nmap -Pn -open -p 53 -og 10.0.5.0 dns-server2.txt
+Failed to resolve "dns-server2.txt".
+Failed to resolve "dns-server2.txt".
+Failed to resolve "dns-server2.txt".
+# Nmap done at Mon Sep 19 17:26:04 2022 -- 1 IP address (1 host up) scanned in 2.25 seconds
