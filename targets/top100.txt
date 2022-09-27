@@ -1,0 +1,4 @@
+# Nmap 7.92 scan initiated Mon Sep 26 23:11:48 2022 as: nmap --top-ports 100 -Pn -A -oG top100.txt 10.0.17.149
+Host: 10.0.17.149 ()	Status: Up
+Host: 10.0.17.149 ()	Ports: 135/open/tcp//msrpc//Microsoft Windows RPC/, 139/open/tcp//netbios-ssn//Microsoft Windows netbios-ssn/, 445/open/tcp//microsoft-ds?///, 3389/open/tcp//ms-wbt-server//Microsoft Terminal Services/	Ignored State: filtered (96)	Seq Index: 254	IP ID Seq: Incremental
+# Nmap done at Mon Sep 26 23:12:41 2022 -- 1 IP address (1 host up) scanned in 53.96 seconds
